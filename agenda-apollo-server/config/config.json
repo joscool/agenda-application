@@ -1,0 +1,12 @@
+{
+    "development": {
+        "database": "agenda_db",
+        "username": "joshuaodugbemi",
+        "password": "andela",
+        "host": "localhost",
+        "dialect": "postgres",
+        "port": "5432"
+    },
+    "test": {},
+    "production": {}
+}
